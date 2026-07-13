@@ -1,0 +1,2 @@
+import { Bell, Search } from "lucide-react";
+export function Topbar(){return <header className="topbar"><div><h1>Commercial Control Center</h1><p>Demo Distribution Iraq</p></div><div className="topActions"><button className="search"><Search size={17}/>Search products, orders, reports</button><button className="iconButton"><Bell size={18}/></button><span className="environment">DEMO</span></div></header>}

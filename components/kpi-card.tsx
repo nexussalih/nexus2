@@ -1,0 +1,1 @@
+export function KpiCard({label,value,change,note}:{label:string;value:string;change?:string;note?:string}){return <div className="card kpi"><div className="kpiLabel">{label}</div><div className="kpiValue">{value}</div>{change&&<div className={change.startsWith("-")?"change negative":"change"}>{change}</div>}{note&&<div className="note">{note}</div>}</div>}

@@ -1,4 +1,4 @@
-# Nexus AI — Sprint 1 Foundation by salih
+# Nexus AI — Sprint 1 Foundation
 
 Enterprise commercial intelligence platform for sales, inventory, demand forecasting, and purchase planning.
 
